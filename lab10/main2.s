@@ -3,5 +3,5 @@
 .globl main
 
 main:
-	mov eax, 0
-	ret
+  mov eax, 0
+  ret

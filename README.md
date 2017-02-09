@@ -32,8 +32,8 @@ Wykład i Laboratorium: dr hab. prof. Piotr Szuca
 
 10. [Laboratorium 10](lab10):
   * [x] [main 1](lab10/main1.s)
-  * [x] [main 1](lab10/main2.s)
-  * [x] [main 1](lab10/main3.s)
+  * [x] [main 2](lab10/main2.s)
+  * [x] [main 3](lab10/main3.s)
 
 ***************************************
 
